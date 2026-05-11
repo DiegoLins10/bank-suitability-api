@@ -1,6 +1,6 @@
 ﻿# Suitability API 🚀🏦
 
-Uma API de **Suitability bancária** feita com **.NET 10** para simular como bancos e corretoras avaliam o perfil do investidor antes de ofertar produtos financeiros. 📊
+Uma API de **Suitability bancária** feita com **.NET 10** utilizando Clean Architecture e Vertical Slice Architecture, para simular o processo utilizado por bancos e corretoras na avaliação do perfil de investidor antes da recomendação de produtos financeiros. 📊
 
 > By Diego Lins ✨
 
